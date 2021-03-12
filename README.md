@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Riley.
+[![Header](https://github.com/rileybutterfield/rileybutterfield/blob/main/banner.jpg "Header")]
 
 <!--
 **rileybutterfield/rileybutterfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
