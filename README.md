@@ -1,20 +1,19 @@
 ![Header](https://github.com/rileybutterfield/rileybutterfield/blob/main/banner.jpg "Header")
 
-<!--
-**rileybutterfield/rileybutterfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###About Me:
+I'm an educator turned full stack software engineeer living in Brooklyn, New York. I like using technology for good, curating Spotify playlists for every mood, and cheez-its.
 
-Here are some ideas to get you started:
+###Let's Connect!
+<a href="mailto:rileybutterfield1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/rileybutterfield/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm an educator turned full stack software engineeer.
+###What I'm working on:
+Right now, I'm a software engineering teaching fellow at Fullstack Academy - I help developers-in-training deepen their technical skills, gain confidence, and build amazing projects. In my spare time, I'm working on a mobile app, Popcorn, that helps indecisive movie lovers pick a flick (quick). I'm also dabbling in Python, Java, and Typescript.
+
+###My Go-To Tech Stack:
+
+###Check Out Some of my Work:
+
+
 
 ![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileybutterfield&show_icons=true&theme=onedark)
 
