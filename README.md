@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I'm an educator turned full stack software engineeer.
 
 ![Riley's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileybutterfield&show_icons=true&theme=onedark)
 
