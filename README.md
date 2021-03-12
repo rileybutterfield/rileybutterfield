@@ -1,7 +1,7 @@
 ![Header](https://github.com/rileybutterfield/rileybutterfield/blob/main/banner.jpg "Header")
 
 ### About Me:
-I'm an educator turned full stack software engineeer living in Brooklyn, New York. I like using technology for good, curating Spotify playlists for every mood, and cheez-its.
+I'm an educator turned full stack software engineer living in Brooklyn, New York. I like using technology for good, curating Spotify playlists for every mood, and cheez-its.
 
 ### Let's Connect!
 * <a href="mailto:rileybutterfield1@gmail.com">Email me</a> 
